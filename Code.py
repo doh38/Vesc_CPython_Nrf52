@@ -117,7 +117,7 @@ while True:
     
     #display task
    
-    if (now + 0.4) < time.monotonic():  # If 3 milliseconds elapses
+    if (now + 0.4) < time.monotonic():  # If 400 milliseconds elapses
         splash = displayio.Group()
         if LVL == 1:
             text_area_top_left = label.Label(terminalio.FONT, text=LV1, color = 0x0000FF, background_color = 0xFFFFFF)
