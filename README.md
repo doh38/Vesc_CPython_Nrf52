@@ -26,5 +26,16 @@ The source is free for use modifiy. If you find it cool and want me to do more, 
 there is a little schematic (there is only 4 wires...) and a picture of my trusty vesc4 connected and running with it
 Please beware that some libs have been modified and compiled to work here. Replacing them will more than probably break everything.
 
-**I DIDN'T TEST THE FIRMWARE UPDATE SO BE WARNED!!** 
+**I DIDN'T TEST THE FIRMWARE UPDATE FUNCTION SO BE WARNED!!** 
 !!Comes without warranty, and can break things!!
+
+Copyright 2023 Hadrien Dorfman - dodjob@yahoo.fr
+This is a free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This code is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+http://www.gnu.org/licenses.
