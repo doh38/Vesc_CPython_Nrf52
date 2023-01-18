@@ -28,7 +28,7 @@ Please beware that some libs have been modified and compiled to work here. Repla
 !!Comes without warranty, and can break things!! <br />
 
 Copyright 2023 Hadrien Dorfman - dodjob@yahoo.fr <br />
-This is a free software: you can redistribute it and/or modify
+This is a free piece of code: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
